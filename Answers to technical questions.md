@@ -33,7 +33,7 @@ The last time I had to check for performance issues it was in a specific part of
 	"coding enthusiast",
 	"team player",
 	"quick thinker",
-        "always up for a challenge"
+	"always up for a challenge"
   ],
   "fuelledBy": [
 	"music",
