@@ -24,8 +24,8 @@ The last time I had to check for performance issues it was in a specific part of
 > I noticed that the Restaurants method sometimes returns a lot of results and there is no way to request only the top n results. Or maybe the option of splitting the results or getting the results grouped by different criteria in different requests.
 
 ##### Please describe yourself using JSON.
-
-> [{
+```
+ [{
   "firstName": "Ionut",
   "middleName": "Alexandru",
   "lastName": "Achim",
@@ -43,3 +43,4 @@ The last time I had to check for performance issues it was in a specific part of
 	"stinky cheese"
    ]
 }]
+```
